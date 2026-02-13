@@ -1,6 +1,6 @@
 # Axelero Genesis
 🚀Official Download:
-https://lakatosphere6.gumroad.com/l/gmnxn
+https://lakatosphere6.gumroad.com/l/gnmxn
 
 Axelero Genesis is a real-time performance optimizer for RTX GPUs.
 No overclocking. No game file edits. Safe system-level tuning.
