@@ -15,4 +15,4 @@ No overclocking. No game file edits. Safe system-level tuning.
 
 Tested on RTX 3060 / 3070 / 4060 / 4070 / 4080
 <img width="1024" height="1536" alt="1000005789" src="https://github.com/user-attachments/assets/cc4fbd17-2940-4563-a6f1-64f14f92bfe7" />
-<img width="1024" height="1536" alt="1000005789" src="https://github.com/user-attachments/assets/cc4fbd17-2940-4563-a6f1-64f14f92bfe7" />
+
