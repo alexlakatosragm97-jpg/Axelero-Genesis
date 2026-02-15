@@ -8,7 +8,7 @@ Axelero Genesis detects your active game and applies **safe OS-level optimizatio
 ---
 
 ## Official Download
-**Gumroad (Windows build):** https://lakatosphere6.gumroad.com/l/gmnxn
+**Gumroad (Windows build)https://lakatosphere6.gumroad.com/l/gnmxn
 
 ## What it does
 - 🎯 **Auto-detects your active game** (foreground focus)
